@@ -1,7 +1,7 @@
 # worldo-corona
 Wordlo-corona collects all the updates and their respective sources of a given date as displayed on the website [https://www.worldometers.info/coronavirus/] making use of web scraping tool: Selenium.
 
-This program runs on Python 3.7 and can be used in collecting data passing the valid parameters.
+This program runs on Python 2.7 and can be used in collecting data passing the valid parameters.
 
 For example: In the website worlometer, you have acess to data with the cases for 6 days. After that you can either do View more News or get the archived data. 
 
