@@ -9,6 +9,8 @@ In worldometer.py, you will be able to crawl the data for those 6 specific days 
 
 For example in the image below:
 
+![Image from worldometer.info](https://github.com/apoudel1021/worldo-corona/blob/master/corona.png)
+
 If you use this condition, you will get a csv file with 2 columns [Text, Source]. 
 ```python
 for i in range(30,26,-1)
